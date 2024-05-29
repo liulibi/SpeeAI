@@ -1,0 +1,4 @@
+repository "SpeeAI@kuikuio_o-as-publisher@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
